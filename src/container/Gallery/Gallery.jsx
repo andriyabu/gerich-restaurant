@@ -1,0 +1,14 @@
+import React from 'react';
+import './Gallery.css';
+
+
+const Gallery = () => {
+    return (
+        <div>
+            <h3>Gallery</h3>
+        </div>
+    );
+};
+
+
+export default Gallery;
